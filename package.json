@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "notification-service": "node app.js"
+    "notification-service": "node app.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
